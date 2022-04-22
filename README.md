@@ -14,4 +14,4 @@ Beside that, I'm also trying to be proefficient with C++ because I would love to
 
 Plants, Reading, Video games, Magic the Gathering.
 
-JavaScript, TypeScript, NodeJs, Angular, SCSS, SQL, C++, .NET ecosystem, Visual studio, Jetbrains IDEs.
+JavaScript, TypeScript, NodeJs, Angular, SCSS, SQL, C++, .NET ecosystem, PHP ecosystem, Visual studio, Jetbrains IDEs.
