@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Otman. 🙌</h1>
+# OtmanMa
 
 ## About me
 
