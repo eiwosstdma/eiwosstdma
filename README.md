@@ -10,7 +10,7 @@
 <br>
 
 ## About me
-<p>I have interests about web technologies such as thoses within the JavaScript ecosystem (Angular, Node.js, Deno, Web components, etc) but also some others languages and ecosystems strongly related to the web such as PHP.</p>
+<p>I have interests about web technologies such as thoses within the JavaScript ecosystem (Angular, Node.js, Deno, Front-End stuff, etc) but also some others languages and ecosystems strongly related to the web such as PHP.</p>
 
 <p>I do use JetBrains suits of software as a daily basis to work, like WebStorm, SQL Data grip plugins, CLion.</p>
 
