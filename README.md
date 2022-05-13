@@ -1,5 +1,5 @@
 <h1 align="center">Hello, Nice to meet you !!! :raised_hands:</h1>
-<p>Hello, I'm Otman, a Full stack web developper based near Paris in France.</p> :fr:
+<p>Hello, I'm Otman, a Full stack web developper based near Paris in France. :fr:</p>
 <p>I specialised myself, as a self-taught learner, in front-end technologies using Angular and on the server using Node.js along SQL technologies like MySql and SQLite.</p>
 
 <p>If you're interested to work with me, email-me on public.otman.mah@gmail.com</p>
