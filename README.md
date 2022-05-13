@@ -25,7 +25,7 @@
 
 > HTML, CSS
 
-> PHP, C#, C++
+> PHP, C++
 
 ### Technologies, Libs, etc
 > JetBrains IDEs, VSCode, Visual Studio, Powershell, Linux, Git
