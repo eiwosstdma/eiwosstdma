@@ -1,7 +1,8 @@
 
 <h1 align="center">Hello, Nice to meet you !!! :raised_hands:</h1>
-<p>Hello, I'm Otman, a Full stack web developper based near Paris in France. :fr:</p>
-<p>I specialised myself, as a self-taught learner, in front-end technologies using Angular and on the server using Node.js along SQL technologies like MySql and SQLite.</p>
+<p>Hello, I'm Otman, a self-taught Full stack web developper based near Paris in France.</p>
+
+<p>I specialised myself in the JavaScript ecosystem, wth Angular and Node.js along SQL technologies like MySql and SQLite.</p>
 
 <p>If you're interested to work with me, email-me on public.otman.mah@gmail.com</p>
 <p>I'm interested in making web applications in all sorts but also tiny scripts and programs using Node.js. </p>
