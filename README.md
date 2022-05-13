@@ -28,8 +28,8 @@
 > PHP, C++
 
 ### Technologies, Libs, etc
-> JetBrains IDEs, VSCode, Visual Studio, Powershell, Linux, Git
+> JetBrains IDEs, VSCode, Visual Studio, Powershell, Linux, Git, Nginx
 
 > Angular, Angular Material, RxJs
 
-> Raw Node.js, Express, Fastify, Discord.js
+> Plain Node.js, Express, Fastify, Discord.js
