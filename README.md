@@ -18,12 +18,17 @@
 <p>I love plants of all sorts and I love making good food.</p>
 
 ### Langs
-> French, English, 
-> JavaScript, TypeScript, 
+> French, English
+
+> JavaScript, TypeScript 
+
 > HTML, CSS
+
 > PHP, C#, C++
 
 ### Technologies, Libs, etc
 > JetBrains IDEs, VSCode, Visual Studio, Powershell, Linux, Git
+
 > Angular, Angular Material, RxJs
+
 > Raw Node.js, Express, Fastify, Discord.js
