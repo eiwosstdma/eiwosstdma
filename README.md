@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Otman.</h1>
+<h1 align="center">Hello, I'm Otman. :raised_hands:</h1>
 
 ## About me
 
