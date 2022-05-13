@@ -1,3 +1,4 @@
+
 <h1 align="center">Hello, Nice to meet you !!! :raised_hands:</h1>
 <p>Hello, I'm Otman, a Full stack web developper based near Paris in France. :fr:</p>
 <p>I specialised myself, as a self-taught learner, in front-end technologies using Angular and on the server using Node.js along SQL technologies like MySql and SQLite.</p>
@@ -15,3 +16,14 @@
 <p>I aspire being fluent in C++, doing embedded stuff and low-level programming, as a Hobby.</p>
 
 <p>I love plants of all sorts and I love making good food.</p>
+
+### Langs
+> French, English, 
+> JavaScript, TypeScript, 
+> HTML, CSS
+> PHP, C#, C++
+
+### Technologies, Libs, etc
+> JetBrains IDEs, VSCode, Visual Studio, Powershell, Linux, Git
+> Angular, Angular Material, RxJs
+> Raw Node.js, Express, Fastify, Discord.js
