@@ -32,4 +32,6 @@
 
 > Angular, Angular Material, RxJs
 
-> Plain Node.js, Express, Fastify, Discord.js
+> Node.js runtime, Deno
+
+>   ExpressJS, AdonisJS, Discord.js
