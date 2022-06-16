@@ -30,8 +30,8 @@
 ### Technologies, Libs, etc
 > JetBrains IDEs, VSCode, Visual Studio, Powershell, Linux, Git, Nginx
 
-> Angular, Angular Material, RxJs
+> Angular, Angular Material, RxJs, SCSS
 
 > Node.js runtime, Deno
 
->   ExpressJS, AdonisJS, Discord.js
+> ExpressJS, AdonisJS, Discord.js
