@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello, Nice to meet you !!! :raised_hands:</h1>
-<p>Hello, I'm Otman, a self-taught Full stack web developper based near Paris in France.</p>
+<p>Hello, I'm Eiwos, a self-taught Full stack web developper based near Paris in France.</p>
 
 <p>I specialised myself in the JavaScript ecosystem, with Angular and Node.js along SQL technologies like MySql and SQLite.</p>
 
