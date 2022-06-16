@@ -4,7 +4,7 @@
 
 <p>I specialised myself in the JavaScript ecosystem, with Angular and Node.js along SQL technologies like MySql and SQLite.</p>
 
-<p>If you're interested to work with me, email-me on public.otman.mah@gmail.com</p>
+<p>If you're interested to work with me, email-me on eiwos.studio@gmail.com</p>
 <p>I'm interested in making web applications in all sorts but also tiny scripts and programs using Node.js. </p>
 
 <br>
