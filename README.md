@@ -25,22 +25,30 @@
 
 ### Langs
 > French, English
-
+> 
 > JavaScript, TypeScript 
-
+> 
 > HTML, CSS
 
-> PHP, C++
-
 ### Technologies, Libs, etc
-> JetBrains IDEs, VSCode, Visual Studio, Powershell, Linux, Git, Nginx
-
+> JetBrains IDEs, Powershell, Linux, Git, Nginx
+> 
 > Angular, Angular Material, RxJs, SCSS
+> 
+> Node.js
+> 
+> ExpressJS, AdonisJS
 
-> Node.js runtime, Deno
 
-> ExpressJS, AdonisJS, Discord.js
+### Less experience but has knowledge
 
+> PHP, C++
+> 
+> Deno
+> 
+> KoaJS, Discord.js, NgRx
+>
+> VSCode, Visual Studio
 
 <hr>
 
