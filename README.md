@@ -7,7 +7,12 @@
 <p>If you're interested to work with me, email-me on eiwos.studio@gmail.com</p>
 <p>I'm interested in making web applications in all sorts but also tiny scripts and programs using Node.js. </p>
 
-<br>
+<hr>
+
+- 👯 I’m looking to collaborate on web related projects 
+- 📫 How to reach me: eiwos.studio@gmail.com 
+
+<hr>
 
 ## About me
 <p>I have interests about web technologies such as thoses within the JavaScript ecosystem (Angular, Node.js, Deno, Front-End stuff, etc) but also some others languages and ecosystems strongly related to the web such as PHP.</p>
@@ -37,8 +42,9 @@
 > ExpressJS, AdonisJS, Discord.js
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/eiwosstdma)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://eiwos-studio.com)  
+<hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eiwosstdma)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=eiwosstdma&show_icons=true&count_private=true)
+
+![Profile views](https://gpvc.arturio.dev/eiwosstdma)  
