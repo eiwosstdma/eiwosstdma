@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello, Nice to meet you !!! :raised_hands:</h1>
+<h1 align="center">Hello, I'm Otman, nice to meet you! :raised_hands:</h1>
 <p>Hello, I'm Eiwos, a self-taught Full stack web developper based near Paris in France.</p>
 
 <p>I specialised myself in the JavaScript ecosystem, with Angular and Node.js along SQL technologies like MySql and SQLite.</p>
@@ -22,6 +22,13 @@
 <p>I aspire being fluent in C++, doing embedded stuff and low-level programming, as a Hobby.</p>
 
 <p>I love plants of all sorts and I love making good food.</p>
+
+
+## Skills
+### Transverse
+> Proefficient and efficient
+> Always trying to learn new things
+> 
 
 ### Langs
 > French, English
