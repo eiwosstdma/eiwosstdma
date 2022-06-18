@@ -35,3 +35,10 @@
 > Node.js runtime, Deno
 
 > ExpressJS, AdonisJS, Discord.js
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/eiwosstdma)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://eiwos-studio.com)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eiwosstdma)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=eiwosstdma&show_icons=true&count_private=true)
