@@ -44,7 +44,7 @@
 > 
 > Node.js
 > 
-> ExpressJS, AdonisJS
+> ExpressJS, AdonisJS, Jest
 
 
 ### Less experience but has knowledge
